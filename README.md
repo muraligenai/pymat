@@ -1,1 +1,1 @@
-# pymat
+pymat -- Python material repository
